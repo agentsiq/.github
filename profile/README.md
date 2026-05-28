@@ -6,8 +6,8 @@ AgentsIQ builds intelligent AI agents for infrastructure and operations teams. E
 
 | Agent | Description | Version | Status |
 |-------|-------------|---------|--------|
-| [CUR Analyser](https://github.com/agentsiq/cur-analyser) | AWS Cost & Usage Report intelligence | v1.0.0 | ✅ Available |
-| [Alert Analyser](https://github.com/agentsiq/alert-analyser) | OpsGenie/JSM noise detection & suppression | v1.0.0 | ✅ Available |
+| [CUR Analyser](https://github.com/agentsiq/cur-analyser) | AWS Cost & Usage Report intelligence | v1.1.0 | ✅ Available |
+| [Alert Analyser](https://github.com/agentsiq/alert-analyser) | OpsGenie/JSM noise detection & suppression | v1.1.0 | ✅ Available |
 | Kafka Analyser | Kafka cluster intelligence & capacity planning | — | 🔜 Coming soon |
 
 ## Getting Started
